@@ -9,9 +9,29 @@
     "id": 0
   },
   "detail": {
-    "contributors": [],
-    "diagrams": [],
-    "diagramTop": 0,
+    "contributors": [
+      {
+        "name": "Bagas"
+      },
+      {
+        "name": "Ramdan"
+      },
+      {
+        "name": "Hilmi"
+      }
+    ],
+    "diagrams": [
+      {
+        "id": 2,
+        "title": "Diagram STRIDE baru",
+        "diagramType": "STRIDE",
+        "placeholder": "Deskripsi diagram STRIDE baru",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.6.2",
+        "cells": []
+      }
+    ],
+    "diagramTop": 3,
     "reviewer": "April Rustianto, M.Kom",
     "threatTop": 0
   }
